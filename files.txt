@@ -1,0 +1,59 @@
+01. Introduction
+	(1280, 720) | 01. Course content.mp4
+02. Stable Diffusion basics
+	(1280, 720) | 01. Stable Diffusion - intuition 1.mp4
+	(1280, 720) | 02. Stable Diffusion - intuition 2.mp4
+	(1280, 720) | 03. Stable Diffusion - intuition 3.mp4
+	(1280, 720) | 04. Stable Diffusion - intuition 4.mp4
+	(1280, 720) | 05. Stable Diffusion - limitations of use.mp4
+	(1280, 720) | 06. Installing the libraries.mp4
+	(1280, 720) | 07. Prompts - intuition.mp4
+	(1280, 720) | 08. Generating the first image.mp4
+	(1280, 720) | 09. Generating multiple images.mp4
+	(1280, 720) | 10. Parameters - seed.mp4
+	(1280, 720) | 11. Parameters - inference step.mp4
+	(1280, 720) | 12. Parameters - guidance scale.mp4
+	(1280, 720) | 13. Negative prompts - intuition.mp4
+	(1280, 720) | 14. Negative prompts - implementation.mp4
+	(1280, 720) | 15. Other models - intuition.mp4
+	(1280, 720) | 16. Other models - implementation.mp4
+	(1280, 720) | 17. Specific styles.mp4
+	(1280, 720) | 18. Changing the scheduler.mp4
+03. Prompt engineering
+	(1280, 720) | 01. Preparing the environment.mp4
+	(1280, 720) | 02. Subjectobject, actionlocation, and type.mp4
+	(1280, 720) | 03. Style, colors, and artist.mp4
+	(1280, 720) | 04. Resolution, site, and other attributes.mp4
+	(1280, 720) | 05. Negative prompts.mp4
+	(1280, 720) | 06. Stable Diffusition v2.mp4
+	(1280, 720) | 07. Generating arts and photographs.mp4
+	(1280, 720) | 08. Generating landscapes and 3D images.mp4
+	(1280, 720) | 09. Generating drawings and architectures.mp4
+	(1280, 720) | 10. Custom models.mp4
+04. Custom training
+	(1280, 720) | 01. Fine-tuning with Dreambooth - intuition.mp4
+	(1280, 720) | 02. Preparing the environment.mp4
+	(1280, 720) | 03. Training 1.mp4
+	(1280, 720) | 04. Training 2.mp4
+	(1280, 720) | 05. Generating the images.mp4
+	(1280, 720) | 06. Improving the results.mp4
+05. Image to image
+	(1280, 720) | 01. Preparing the environment.mp4
+	(1280, 720) | 02. Generating the image.mp4
+	(1280, 720) | 03. Strength parameter.mp4
+	(1280, 720) | 04. Other image styles.mp4
+	(1280, 720) | 05. Other models.mp4
+	(1280, 720) | 06. Adding elements.mp4
+06. Inpainting - exchanging classes
+	(1280, 720) | 01. Preparing the enviroment.mp4
+	(1280, 720) | 02. Exchanging classes 1.mp4
+	(1280, 720) | 03. Exchanging classes 2.mp4
+07. ControlNet
+	(1280, 720) | 01. Preparing the enviroment.mp4
+	(1280, 720) | 02. Generating images using edges 1.mp4
+	(1280, 720) | 03. Generating images using edges 2.mp4
+	(1280, 720) | 04. Generating images using poses 1.mp4
+	(1280, 720) | 05. Generating images using poses 2.mp4
+08. Final remarks
+	(1280, 720) | 01. Final remarks.mp4
+	(1280, 720) | 02. BONUS.mp4
